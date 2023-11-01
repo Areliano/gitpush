@@ -1,0 +1,13 @@
+.one {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+.two {
+    color: crimson;
+    background: chartreuse;
+}
+
+/*any minute you modify the static files, you must restart the server*/
